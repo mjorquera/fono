@@ -2597,3 +2597,7 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+.contact-info a, .contact-info a:visited {
+	color: #FFFFFF;
+}
